@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AwadheshJha
-- 👀 I’m interested in Cypress Automation.
+- 👀 I’m interested in latest tech and software automation
 - 🌱 I’m currently learning the source of learning!
 - 📫 How to reach me +91-8745809640
 
