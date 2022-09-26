@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a creative soul named Awadhesh Jha
+- 👋 Hi, I’m Awadhesh Jha
 - 👀 My professional interests are in latest tech and software automation
 - 🌱 I’m currently learning the source of learning!
 - 📫 Telecomm: +91-8745809640
